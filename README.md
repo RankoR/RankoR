@@ -1,8 +1,6 @@
 # Hi 👋, I'm Artem
 ### Software Engineer based in 🇪🇪 Estonia with over 12 years of experience in Android & AOSP
 
-<img src="https://github-profile-trophy.vercel.app/?username=rankor" alt="rankor" />
-
 🔭 I’m currently working on [Actinis](https://github.com/actinis) & [Toritark](https://github.com/Toritark/toritark-mobile-app)
 
 ## 💬 Connect with me
@@ -19,11 +17,14 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
 ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
@@ -55,3 +56,5 @@
 - **Mobile SDKs:** Android (primary), iOS & hybrid awareness
 - **Testing & QA:** JUnit, integration & UI tests, Screenshot tests, A/B testing, feature toggles  
 - **Architecture:** Clean Architecture, modular multi-flavors, remote config
+
+<img src="https://github-profile-trophy.vercel.app/?username=rankor" alt="rankor" />
