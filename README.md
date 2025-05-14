@@ -11,7 +11,7 @@
 - 12+ years in Android & AOSP development  
 - Working with Kotlin, Jetpack Compose/Compose Multiplatform, Coroutines, testing, and CI/CD pipelines  
 - Designed, built, and maintained Android SDKs (Veriff identity-verification, Rate & Preferences libraries)  
-- Cross-platform experience with Compose Multiplatform, AOSP, C++ modules, Python & Java backends, iOS (Swift)
+- Cross-platform experience with Compose Multiplatform, AOSP, C++, Python & Java backends, iOS (Swift)
 
 ## 💻 Tech stack
 
