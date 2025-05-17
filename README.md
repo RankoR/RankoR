@@ -16,12 +16,12 @@
 ## 💻 Tech stack
 
 ### Env
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
-![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat&color=000)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=flat&color=000)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff&style=flat&color=000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat&color=000)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat&color=000)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=jetbrains&logoColor=fff&style=flat&color=000)
 
 ### Platforms I'm writing code for
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
