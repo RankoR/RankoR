@@ -76,5 +76,3 @@
 - **Mobile SDKs:** Android (primary), iOS & hybrid awareness
 - **Testing & QA:** JUnit, integration & UI tests, Screenshot tests, A/B testing, feature toggles  
 - **Architecture:** Clean Architecture, modular multi-flavors, remote config
-
-<img src="https://github-profile-trophy.vercel.app/?username=rankor" alt="rankor" />
