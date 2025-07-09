@@ -3,6 +3,11 @@
 
 🔭 I’m currently working on [Actinis](https://github.com/actinis) & [Toritark](https://github.com/Toritark/toritark-mobile-app)
 
+### Primary projects
+
+-  [Actinis](https://actinis.io) - Virtual smartphones in the cloud.
+-  [Toritark](https://toritark.com) - Learn languages through personalized stories.
+
 ## 💬 Connect with me
 
 [LinkedIn](https://linkedin.com/in/artem-smirnov-at-labster) · [StackOverflow](https://stackoverflow.com/users/497132/artem) · [Website](https://smirnov.page)
