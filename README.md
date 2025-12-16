@@ -15,7 +15,7 @@
 ## TL;DR
 - 12+ years in Android & AOSP development  
 - Working with Kotlin, Jetpack Compose/Compose Multiplatform, Coroutines, testing, and CI/CD pipelines  
-- Designed, built, and maintained Android SDKs (Veriff identity-verification, Rate & Preferences libraries)  
+- Designed, built, and maintained SDKs (Veriff identity-verification, Rate & Preferences libraries; JNI SDKs ([RPLidar SDK](https://github.com/Toritark/rplidar-sdk-jni) and many others, private ones)  
 - Cross-platform experience with Compose Multiplatform, AOSP, C++, Python & Java backends, iOS (Swift)
 
 ## 💻 Tech stack
