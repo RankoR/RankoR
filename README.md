@@ -1,12 +1,11 @@
 # Hi 👋, I'm Artem
 ### Software Engineer based in 🇪🇪 Estonia with over 12 years of experience in Android & AOSP
 
-🔭 I’m currently working on [Actinis](https://github.com/actinis) & [Toritark](https://github.com/Toritark/toritark-mobile-app)
+🔭 I’m currently working on [Actinis](https://github.com/actinis)
 
 ### Primary projects
 
 -  [Actinis](https://actinis.io) - Virtual smartphones in the cloud.
--  [Toritark](https://toritark.com) - Learn languages through personalized stories.
 
 ## 💬 Connect with me
 
