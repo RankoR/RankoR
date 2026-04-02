@@ -1,11 +1,12 @@
 # Hi 👋, I'm Artem
 ### Software Engineer based in 🇪🇪 Estonia with over 12 years of experience in Android & AOSP
 
-🔭 I’m currently working on [Actinis](https://github.com/actinis)
+🔭 I’m currently working on [Actinis](https://github.com/actinis) and [GrapheneOS](https://grapheneos.org)
 
 ### Primary projects
 
 -  [Actinis](https://actinis.io) - Virtual smartphones in the cloud.
+-  [GrapheneOS](https://grapheneos.org) - GrapheneOS, private and secure mobile OS.
 
 ## 💬 Connect with me
 
