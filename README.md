@@ -6,7 +6,7 @@
 ### Primary projects
 
 -  [Actinis](https://actinis.io) - Virtual smartphones in the cloud.
--  [GrapheneOS](https://grapheneos.org) - GrapheneOS, private and secure mobile OS.
+-  [GrapheneOS](https://grapheneos.org) - private and secure mobile OS.
 
 ## 💬 Connect with me
 
