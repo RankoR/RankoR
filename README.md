@@ -1,11 +1,11 @@
 # Hi 👋, I'm Artem
-### Software Engineer based in 🇪🇪 Estonia with over 12 years of experience in Android & AOSP
+### Software Engineer based in 🇪🇪 Estonia working with Android & AOSP since Android 2.3.
 
 🔭 I’m currently working on [Actinis](https://github.com/actinis) and [GrapheneOS](https://grapheneos.org)
 
 ### Primary projects
 
--  [Actinis](https://actinis.io) - Virtual smartphones in the cloud.
+-  [Actinis](https://actinis.io) - Android apps on Linux, arm64 -> x86_64 translation, Skia streaming and other AOSP hacking.
 -  [GrapheneOS](https://grapheneos.org) - private and secure mobile OS.
 
 ## 💬 Connect with me
@@ -13,7 +13,7 @@
 [LinkedIn](https://linkedin.com/in/artem-smirnov-at-labster) · [StackOverflow](https://stackoverflow.com/users/497132/artem) · [Website](https://smirnov.page)
 
 ## TL;DR
-- 12+ years in Android & AOSP development  
+- Many years in Android & AOSP development  
 - Working with Kotlin, Jetpack Compose/Compose Multiplatform, Coroutines, testing, and CI/CD pipelines  
 - Designed, built, and maintained SDKs (Veriff identity-verification, Rate & Preferences libraries); JNI SDKs ([RPLidar SDK](https://github.com/Toritark/rplidar-sdk-jni) and many others, private ones)  
 - Cross-platform experience with Compose Multiplatform, AOSP, C++, Python & Java backends, iOS (Swift)
