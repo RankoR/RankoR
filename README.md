@@ -20,7 +20,7 @@
 ## 💻 Tech stack
 
 ### Env
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat&color=000)
+![Arch Linux btw](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat&color=000)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=flat&color=000)
 ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff&style=flat&color=000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat&color=000)
