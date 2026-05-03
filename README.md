@@ -68,10 +68,3 @@
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?logo=material-UI&logoColor=fff&style=flat&color=000)
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=firebase&logoColor=fff&style=flat&color=000)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=fff&style=flat&color=000)
-
-## Skills
-- **Languages:** Kotlin, Java, Python, C++, Swift
-- **Frameworks & Tools:** Jetpack Compose, Coroutines, RxJava, Skia, WebRTC, MQTT, Protobuf, REST, gRPC, Docker, Firebase, CI (GitHub Actions, Jenkins, Travis, CircleCI)
-- **Mobile SDKs:** Android (primary), iOS & hybrid awareness
-- **Testing & QA:** JUnit, integration & UI tests, Screenshot tests, A/B testing, feature toggles  
-- **Architecture:** Clean Architecture, modular multi-flavors, remote config
